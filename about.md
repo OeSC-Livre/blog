@@ -1,15 +1,18 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
 
-Some information about you!
+Somos um grupo de Usuários de Software Livre do Oeste Catarinense :-)
 
-### More Information
+### Mais informações
 
-A place to include any other types of information that you'd like to include about yourself.
+O OeSC Livre é grupo de voluntários que procura organizar e mobilizar todos os profissionais, estudantes e interessados em tecnologias livres na região Oeste de Santa Catarina, promovendo a troca de experiências e conhecimentos entre os seus membros através de emails e fórum online, de eventos presenciais nas cidades da região e interação virtual.
 
-### Contact me
+[Gostaria de participar e/ou saber mais? Acesse o nosso site!](http://www.oesc-livre.org/doku.php)
 
-[email@domain.com](mailto:email@domain.com)
+### Contate-nos
+
+[OeSC-Livre na rede Freenode](http://webchat.freenode.net/?channels=#OeSC-Livre)
+[oesc-livre@googlegroups.com](mailto:oesc-livre@googlegroups.com)

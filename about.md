@@ -14,5 +14,6 @@ O OeSC Livre é grupo de voluntários que procura organizar e mobilizar todos os
 
 ### Contate-nos
 
-[OeSC-Livre na rede Freenode](http://webchat.freenode.net/?channels=#OeSC-Livre)
-[oesc-livre@googlegroups.com](mailto:oesc-livre@googlegroups.com)
+[OeSC-Livre na rede Freenode - IRC](http://webchat.freenode.net/?channels=#OeSC-Livre)
+
+[Email](mailto:oesc-livre@googlegroups.com)

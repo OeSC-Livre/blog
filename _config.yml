@@ -6,10 +6,10 @@
 name: OeSC-Livre
 
 # Short bio or description (displayed in the header)
-description: OeSC Livre
+description: Blog do Grupo de Usuários de Software Livre do Oeste Catarinense
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/OeSC-Livre/blog/master/images/oesc-livre-small-logo.png
+avatar: https://raw.githubusercontent.com/OeSC-Livre/blog/gh-pages/images/oesc-livre-small-logo.png
 
 #
 # Flags below are optional
@@ -18,8 +18,8 @@ avatar: https://raw.githubusercontent.com/OeSC-Livre/blog/master/images/oesc-liv
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: oesc-livre@googlegroups.com
-  facebook: oesc-livre
+  email: OeSC-Livre@googlegroups.com
+  facebook: OeSC-Livre
   flickr:
   github: OeSC-Livre
   instagram:
